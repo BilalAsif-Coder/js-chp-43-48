@@ -11,3 +11,18 @@ function alertLink () {
 function phoneImage () {
     alert("Thank you For Shopping phone ")
 }
+
+
+//Q no 3 
+
+function table (button) {
+ button.parentElement.parentElement.remove()
+}
+
+
+
+
+
+
+
+//Q no 4 
