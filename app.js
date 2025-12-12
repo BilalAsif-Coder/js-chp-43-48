@@ -8,4 +8,6 @@ function alertLink () {
 //Q no 2 
 //A no 2 
 
-
+function phoneImage () {
+    alert("Thank you For Shopping phone ")
+}
