@@ -21,8 +21,29 @@ function table (button) {
 
 
 
-
-
-
-
 //Q no 4 
+
+// index.html file 
+
+
+//Q no 5 
+
+var  number = 0 ;
+
+var  para = document.getElementById("para")
+
+function add () {
+  para.innerText = ++number
+}
+
+
+
+function sub () {
+  para.innerText = --number
+}
+
+
+
+
+
+
